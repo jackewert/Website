@@ -11,10 +11,6 @@ Potentially MongoDB as the Database
  Currently named this way for the mispelling
 
 
-
-
-
-
 # How I Made This
 Used this command below to create an archetype for Django
  python -m django startproject mysite
